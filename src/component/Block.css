@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Baumans&family=Fascinate&family=Lobster&family=Manrope:wght@400;500&display=swap');
 
+
+*{
+    background-color: antiquewhite;
+}
 .nav{
     display: flex;
     justify-content: space-evenly;
@@ -162,6 +166,7 @@
     text-shadow:2px 2px white;
     margin-top:-14vw;
     margin-left:6vw;
+    background-color: transparent;
 }
 
 .text2{
@@ -183,6 +188,7 @@
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     margin-left: 75vw;
+    background-color: transparent;
 }
 .img2{
     position:absolute;
